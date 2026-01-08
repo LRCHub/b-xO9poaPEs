@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ネクストネスト (Magical Mirai 10th edit)",
+  "base_artist": "さつき が てんこもり",
+  "createdAt": "2026-01-08T13:39:08.441549Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネクストネスト",
+      "artist": "さつき が てんこもり",
+      "has_synced": false,
+      "path": "select/pl_01_ネクストネスト_さつき_が_てんこもり.txt"
+    }
+  ]
+}
